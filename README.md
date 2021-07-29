@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hithalo.
 
-Currently working at [CPQi](https://cpqi.com/) an Canadian multinationality company as a front-end developer 👨🏻‍💻<br/>
-Student at Instituto Infnet in Rio de Janeiro ✌🏻
+Currently working at [CPQi](https://cpqi.com/), a Canadian multinationality company, as a front-end developer. 👨🏻‍💻<br/>
+Student at Instituto Infnet in Rio de Janeiro. ✌🏻
 
 ![Hikild's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikild&count_private=true&theme=dracula)
 ##
