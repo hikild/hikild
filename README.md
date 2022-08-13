@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hithalo.
 
 
-Student at Instituto Infnet in Rio de Janeiro. ✌🏻
+I'm front-end engineer, working for almost 4 years as a developer. ✌
 
 ![Hikild's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikild&count_private=true&theme=dracula)
 ##
